@@ -2,7 +2,7 @@
 
 ## Description
 The `lslidar_n301` package is a linux ROS driver for lslidar n301.
-The package is tested on Ubuntu 14.04 with ROS indigo.
+The package is tested on Ubuntu 16.04 with ROS kinect.
 
 ## Compling
 This is a Catkin package. Make sure the package is on `ROS_PACKAGE_PATH` after cloning the package to your workspace. And the normal procedure for compling a catkin package will work.
